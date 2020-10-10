@@ -1,4 +1,4 @@
-# GetXtest
+# My shop
 
 A new Flutter project.
 
